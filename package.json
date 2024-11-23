@@ -11,6 +11,12 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^2.1.0",
+    "@rn-primitives/checkbox": "^1.1.0",
+    "@rn-primitives/dialog": "^1.1.0",
+    "@rn-primitives/slot": "^1.1.0",
+    "@rn-primitives/switch": "^1.1.0",
+    "@rn-primitives/table": "^1.1.0",
+    "@rn-primitives/types": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react-native": "^0.460.0",
